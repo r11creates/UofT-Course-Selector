@@ -1,0 +1,20 @@
+events
+dates
+civilizations
+cultures
+societies
+ancient
+medieval
+modern
+empires
+revolutions
+wars
+treaties
+leaders
+dynasties
+colonization
+industrialization
+nationalism
+imperialism
+historical figures
+primary sources

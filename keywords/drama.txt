@@ -1,0 +1,20 @@
+plot
+character
+setting
+conflict
+dialogue
+stage directions
+monologue
+soliloquy
+tragedy
+comedy
+drama
+script
+playwright
+protagonist
+antagonist
+climax
+resolution
+stagecraft
+dramatic irony
+subtext

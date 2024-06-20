@@ -1,0 +1,30 @@
+unity
+ue5
+unreal engine
+graphics
+opengl
+shader
+ray tracing
+cpp
+c++
+c#
+blender
+webgl
+game design
+game development
+3d model
+animation
+level design
+programming
+game art
+game
+sound design
+music
+game writing
+git
+mobile
+console
+vr
+ar
+indie dev
+game studios

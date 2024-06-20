@@ -1,0 +1,20 @@
+phonetics
+phonology
+morphology
+syntax
+semantics
+pragmatics
+sociolinguistics
+psycholinguistics
+historical linguistics
+comparative linguistics
+syntax
+morphology
+phonetics
+sociolinguistics
+psycholinguistics
+discourse analysis
+language acquisition
+computational linguistics
+corpus linguistics
+applied linguistics

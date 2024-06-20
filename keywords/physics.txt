@@ -1,0 +1,19 @@
+mechanics
+thermodynamics
+electromagnetism
+quantum mechanics
+relativity
+astrophysics
+nuclear physics
+particle physics
+optics
+fluid dynamics
+classical physics
+quantum field theory
+statistical mechanics
+cosmology
+kinematics
+wave mechanics
+electrodynamics
+gravitation
+quantum electrodynamics

@@ -1,0 +1,18 @@
+population
+sample
+mean
+median
+mode
+variance
+standard deviation
+probability distribution
+normal distribution
+hypothesis testing
+confidence interval
+regression analysis
+correlation
+t-test
+probability theory
+descriptive statistics
+inferential statistics
+experimental design
